@@ -1,12 +1,10 @@
 # Jialu Jacquelyn Sun
 
-Academic portfolio for Jialu Jacquelyn Sun, MSc student in Statistics at Western University.
+Academic portfolio of me!
 
 ## Website
 
 https://j334sun.github.io/academic-portfolio/
-
-GitHub Pages publishes automatically from the `main` branch, using the repository root. Both the website and this repository are public.
 
 ## Development
 
@@ -26,6 +24,3 @@ Open http://localhost:8080.
 
 Commit changes to `main` to publish them through GitHub Pages.
 
-## Content
-
-Academic content follows the supplied CV revised October 15, 2026. Manuscripts in preparation are explicitly labelled. The probability curves are decorative, not research results. The website excludes phone and personal address details.
